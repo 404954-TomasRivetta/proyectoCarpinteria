@@ -1,3 +1,3 @@
 # proyectoCarpinteria
 
-Aqui se subiran los avances del 'proyectoCarpinteria' realizados en clase
+Aqui se subiran los avances del 'proyectoCarpinteria' realizado en clase
