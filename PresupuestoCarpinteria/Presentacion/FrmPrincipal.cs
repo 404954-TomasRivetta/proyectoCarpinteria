@@ -24,5 +24,11 @@ namespace PresupuestoCarpinteria.Presentacion
                 this.Close();
             }
         }
+
+        private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmNuevoPresupuesto frmNuevoPresupuesto = new FrmNuevoPresupuesto();
+            frmNuevoPresupuesto.ShowDialog();
+        }
     }
 }

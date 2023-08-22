@@ -34,10 +34,10 @@ namespace PresupuestoCarpinteria.Entidades
         {
             double total = 0;
 
-            for (int i = 0; i < Detalles.Count; i++)
-            {
-                total += Detalles[i].CalcularSubTotal();
-            }
+            //for (int i = 0; i < Detalles.Count; i++)
+            //{
+            //    total += Detalles[i].CalcularSubTotal();
+            //}
 
             foreach (DetallePresupuesto d in Detalles)
             {
