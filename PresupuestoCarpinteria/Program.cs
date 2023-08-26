@@ -18,6 +18,16 @@ namespace PresupuestoCarpinteria
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmPrincipal());
+
+            //LO COMENTO YA QUE VOY A TRABAJAR EN SI CON EL FORMULARIO NUEVO PRESUPUESTO
+            //Application.Run(new FrmPrincipal());
+            //Application.Run(new FrmNuevoPresupuesto());
+
+            /*
+             aplico un data grid, al cual le voy a agregar las columnas necesarias, exceptuando la primera columna
+            que no debe ser visible y ademas debo desmarcar los check que vienen marcados con la datagrid de forma predeterminada
+
+             */
         }
     }
 }

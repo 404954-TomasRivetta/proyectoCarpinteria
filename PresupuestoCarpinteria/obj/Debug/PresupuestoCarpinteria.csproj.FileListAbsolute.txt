@@ -29,3 +29,14 @@ D:\clasesProgII\repositorios\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debu
 D:\clasesProgII\repositorios\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.csproj.CoreCompileInputs.cache
 D:\clasesProgII\repositorios\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.exe
 D:\clasesProgII\repositorios\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.pdb
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\bin\Debug\PresupuestoCarpinteria.exe.config
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\bin\Debug\PresupuestoCarpinteria.exe
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\bin\Debug\PresupuestoCarpinteria.pdb
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.csproj.AssemblyReference.cache
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.Presentacion.FrmPrincipal.resources
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.Properties.Resources.resources
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.csproj.GenerateResource.cache
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.csproj.CoreCompileInputs.cache
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.exe
+C:\Users\CESAR\Desktop\toto\repositoriosProg\proyectoCarpinteria\PresupuestoCarpinteria\obj\Debug\PresupuestoCarpinteria.pdb
